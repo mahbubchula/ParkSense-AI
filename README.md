@@ -169,12 +169,6 @@ ParkSense-AI is designed for academic research in:
 3. **Transparent methodology** - All calculations are inspectable
 4. **Policy simulation** - What-if analysis for planners
 
-### Target Journals
-- Transportation Research Part C
-- IEEE Transactions on ITS
-- Cities
-- Sustainable Cities and Society
-
 ---
 
 ## 📈 Sample Insights
@@ -204,11 +198,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 👨‍💻 Author
-
-**MAHBUB**  
-Chulalongkorn University  
-Transportation Research
-
+ 
+Author: Mahbub Hassan
+Graduate Student & Non-ASEAN Scholar
+Department of Civil Engineering, Faculty of Engineering
+Chulalongkorn University, Bangkok, Thailand
 ---
 
 ## 🙏 Acknowledgments
@@ -221,7 +215,7 @@ Transportation Research
 
 ## 📞 Contact
 
-For questions or collaborations, please open an issue or contact via GitHub.
+For questions or collaborations, please open an issue or contact via GitHub and you can email me: mahbub.hassan@ieee.org 
 
 ---
 
