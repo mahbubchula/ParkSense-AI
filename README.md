@@ -12,7 +12,7 @@
 
 ParkSense-AI is a comprehensive parking intelligence platform that provides real-time analysis of **2,500+ carparks** across Singapore. It integrates data from three major agencies (HDB, LTA, URA) and uses **LLM-powered AI** to generate actionable insights for drivers, urban planners, and researchers.
 
-![Dashboard Preview]([https://via.placeholder.com/800x400?text=ParkSense-AI+Dashboard](https://parksenseai.streamlit.app/))
+[![ParkSense-AI Dashboard](https://via.placeholder.com/800x400?text=ParkSense-AI+Dashboard)](https://parksenseai.streamlit.app/)
 
 ---
 
