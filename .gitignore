@@ -1,0 +1,36 @@
+# Environment variables (IMPORTANT - protects your API keys!)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Test files
+test_*.html
+
+# Logs
+*.log
+
+# Distribution
+dist/
+build/
+*.egg-info/
